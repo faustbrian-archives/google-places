@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/googleplaces-php-client",
     "description": "A Google Places Client for PHP",
-    "keywords": ["laravel", "framework", "faustbrian", "faustbrian-google-places", "Google-Places", "Google Places", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "google-places", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
